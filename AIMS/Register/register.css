@@ -1,0 +1,184 @@
+.phinma{
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 50%;
+}
+
+.header{
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 140px;
+    left: 50%;
+    background: #4A8B2C;
+}
+
+.header-2{
+    position: absolute;
+    height: 20px;
+    width: 50%;
+    background: #D79A2B;
+    right: 0;
+    top:21%;
+}
+
+.logo{
+    position: absolute;
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+    top: 5px;
+    left: 5%;
+}
+
+p{
+    position: absolute;
+    font-family: arial;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: white;
+    left: 25%;
+    top: 0;
+}
+
+.border{
+    position: absolute;
+    border: 0.30px solid;
+    width: 60%;
+    top: 45%;
+    left: 25%;
+    color: white;
+}
+
+p1{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    color: white;
+    font-family: arial;
+    font-size: 15px;
+    letter-spacing: 8px;
+}
+
+p2{
+    position: absolute;
+    right: 33%;
+    top: 30%;
+    font-family: georgia;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#hi{
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+    border: 1px solid black;
+    outline: none;
+}
+
+.fn{
+    position: absolute;
+    right: 25%;
+    top: 43%;
+}
+
+.ln{
+    position: absolute;
+    right: 1%;
+    top: 43%;
+    width: 100px;
+}
+
+.me{
+    position: absolute;
+    height: 40px;
+    width: 629px;
+    border: 1px solid black;
+    outline: none;
+    font-size:20px;
+    right: 1%;
+    top: 55%;
+}
+
+.password{
+    position: absolute;
+    height: 40px;
+    width: 629px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 20px;
+    right: 1%;
+    top: 67%;
+}
+
+#submit{
+    position: absolute;
+    bottom: 15%;
+    right: 1%;
+    height: 40px;
+    width: 100px;
+    background: #4A8B2C;
+    border-radius: 50px;
+    text-align: center;
+    font-family: arial;
+    font-size: large;
+    line-height: 40px;
+    color: white;
+    cursor: pointer;
+    outline: none;
+}
+
+#box1{
+    position: absolute;
+    height: 55px;
+    width: 190px;
+    background: #4267B2;
+    color: white;
+    font-size: 15px;
+    font-family: georgia;
+    font-weight: bold;
+    line-height: 55px;
+    border-radius: 15px;
+    bottom: 3%;
+    right: 1%;
+    cursor: pointer;
+}
+
+p4{
+    position: absolute;
+    left: 5px;
+}
+
+.fb{
+    position: absolute;
+    height: 55px;
+    width: 90px;
+    right: 0;
+    border-radius: 15px;
+}
+
+#box2{
+    position: absolute;
+    height: 55px;
+    width: 190px;
+    background: #EA4335;
+    color: white;
+    font-size: 15px;
+    font-family: georgia;
+    font-weight: bold;
+    line-height: 55px;
+    border-radius: 15px;
+    bottom: 3%;
+    right: 33%;
+    cursor: pointer;
+}
+
+.google{
+    position: absolute;
+    height: 55px;
+    width: 90px;
+    background: #EA4335;
+}

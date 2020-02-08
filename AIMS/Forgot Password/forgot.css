@@ -1,0 +1,91 @@
+.phinma{
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 50%;
+}
+
+.header{
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 140px;
+    left: 50%;
+    background: #4A8B2C;
+}
+
+.header-2{
+    position: absolute;
+    height: 20px;
+    width: 50%;
+    background: #D79A2B;
+    right: 0;
+    top:21%;
+}
+
+.logo{
+    position: absolute;
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+    top: 5px;
+    left: 5%;
+}
+
+p{
+    position: absolute;
+    font-family: arial;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: white;
+    left: 25%;
+    top: 0;
+}
+
+.border{
+    position: absolute;
+    border: 0.30px solid;
+    width: 60%;
+    top: 45%;
+    left: 25%;
+    color: white;
+}
+
+p1{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    color: white;
+    font-family: arial;
+    font-size: 15px;
+    letter-spacing: 8px;
+}
+
+p2{
+    position: absolute;
+    font-size: 50px;
+    font-family: georgia;
+    font-weight: bold;
+    right: 13%;
+    top: 30%;
+}
+
+.lock{
+    position: absolute;
+    right: 8%;
+    top: 30%;
+    height: 50px;
+    width: 50px;
+}
+
+.Email{
+    position: absolute;
+    right: 7%;
+    top: 50%;
+    height: 35px;
+    width: 500px;
+    outline: none;
+    border: 1px solid black;
+    font-size: 15px;
+}
